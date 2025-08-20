@@ -1,4 +1,4 @@
-import ListCourse from "./component/ListCourse"
+import from "./component/"
 
 function App() {
 
